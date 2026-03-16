@@ -78,7 +78,7 @@ section[data-testid="stSidebar"] .stCaption { color: var(--text-muted) !importan
 }
 .metric-value {
     font-family: 'DM Serif Display', serif;
-    font-size: 2rem;
+    font-size: 1rem;
     color: var(--text-primary);
     line-height: 1.1;
 }
